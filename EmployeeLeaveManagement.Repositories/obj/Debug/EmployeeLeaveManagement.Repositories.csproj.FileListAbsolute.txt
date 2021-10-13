@@ -1,0 +1,15 @@
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.Repositories.dll.config
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.Repositories.dll
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.Repositories.pdb
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.DomainModels.dll
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.DomainModels.pdb
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EmployeeLeaveManagement.DomainModels.dll.config
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\obj\Debug\EmployeeLeaveManagement.Repositories.csproj.AssemblyReference.cache
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\obj\Debug\EmployeeLeaveManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\obj\Debug\EmployeeLeaveManagement.Repositories.csproj.CopyComplete
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\obj\Debug\EmployeeLeaveManagement.Repositories.dll
+C:\Users\91920\Desktop\QBURST\EmployeeLeaveManagement\EmployeeLeaveManagement.Repositories\obj\Debug\EmployeeLeaveManagement.Repositories.pdb
