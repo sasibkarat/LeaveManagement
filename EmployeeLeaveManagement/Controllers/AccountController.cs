@@ -10,9 +10,6 @@ using System.Net;
 using System.Net.Mail;
 
 
-/// <summary>
-/// Test
-/// </summary>
 namespace EmployeeLeaveManagement.Controllers
 {
     public class AccountController : Controller
