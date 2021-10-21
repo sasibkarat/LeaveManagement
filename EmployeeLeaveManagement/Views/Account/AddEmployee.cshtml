@@ -13,9 +13,7 @@
                 <div class="form-group col-sm-12">
                     <label for="txtName">First Name</label>
                     <input type="text" class="form-control" id="txtFirstName" placeholder="Enter First name" name="FirstName" required="required" pattern="^[a-zA-Z ]*$" autofocus="autofocus" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                    
                     <div class="invalid-feedback">
                         Please enter name [alphabets only].
                     </div>
@@ -26,9 +24,7 @@
                 <div class="form-group col-sm-12">
                     <label for="txtName">Last Name</label>
                     <input type="text" class="form-control" id="txtLasstName" placeholder="Enter Last name" name="LastName" required="required" pattern="^[a-zA-Z ]*$" autofocus="autofocus" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                    
                     <div class="invalid-feedback">
                         Please enter name [alphabets only].
                     </div>
@@ -39,9 +35,7 @@
                 <div class="form-group col-sm-6">
                     <label for="txtEmail">Email</label>
                     <input type="email" class="form-control" id="txtEmail" placeholder="Email" name="Email" oninput="form.Email.pattern = escapeRegExp(this.value)" required="required" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                    
                     <div class="invalid-feedback">
                         Invalid email
                     </div>
@@ -51,9 +45,7 @@
                 <div class="form-group col-sm-6">
                     <label for="txtMobile">Contact Number</label>
                     <input type="text" class="form-control" id="txtContactNumber" placeholder="Mobile" name="ContactNumber" required="required" pattern="^[789]\d{9}$" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                    
                     <div class="invalid-feedback">
                         Invalid mobile Number.
                     </div>
@@ -64,9 +56,7 @@
                 <div class="form-group col-sm-6">
                     <label for="txtPassword">Password</label>
                     <input type="password" class="form-control" id="txtPassword" placeholder="Password" name="Password" required="required" minlength="6" oninput="form.ConfirmPassword.pattern = escapeRegExp(this.value)" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                    
                     <div class="invalid-feedback">
                         Password must contain at least 6 characters.
                     </div>
@@ -75,9 +65,7 @@
                 <div class="form-group col-sm-6">
                     <label for="txtPassword">Confirm Password</label>
                     <input type="password" class="form-control" id="txtConfirmPassword" placeholder="Confirm Password" name="ConfirmPassword" required="required" />
-                    <div class="valid-feedback">
-                        Looks good!
-                    </div>
+                   
                     <div class="invalid-feedback">
                         Password and Confirm Password do not match.
                     </div>
@@ -94,7 +82,7 @@
                             <option value="1">HR</option>
                             <option value="2">Project Manager</option>
                             <option value="3">Developer</option>
-                            <option value="4">QA</option>
+                            <option value="4">Designer</option>
 
                         </Select>
                         @*<input type="text" class="form-control" id="txtRoleID" placeholder="Enter RoleID" name="RoleID" required="required" />
@@ -127,7 +115,7 @@
                             <option value="HR">HR</option>
                             <option value="ProjectManager">Project Manager</option>
                             <option value="Developer">Developer</option>
-                            <option value="QA">QA</option>
+                            <option value="Designer">Designer</option>
 
 
                         </Select>
